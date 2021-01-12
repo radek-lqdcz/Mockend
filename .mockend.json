@@ -1,6 +1,7 @@
 {
   "Post": {
     "created": "date",
+    "email": "radek@lqd.cz",
     "title": "string",
     "views": "int",
     "published": "boolean",
