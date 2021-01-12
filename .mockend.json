@@ -1,8 +1,8 @@
 {
   "Post": {
     "created": "date",
-    "email": "radek@lqd.cz",
+    "email": "string",
     "text": "string",
-    "link": ""
+    "link": "string"
   }
 }
