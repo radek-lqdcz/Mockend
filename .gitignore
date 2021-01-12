@@ -1,0 +1,5 @@
+#phpstorm soubory
+.idea/*
+
+#zajisti, ze se nam do repozirare ulozi adresar i kdyz je prazdny
+!**/.gitkeep 
